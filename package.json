@@ -25,7 +25,7 @@
     "ng-dependencies-install": "git+https://github.com/ngCli/ng-dependencies-install.git",
     "ng-new-welcome": "git+https://github.com/ngCli/ng-new-welcome.git",
     "ng-project-blueprint": "git+https://github.com/ngCli/ng-project-blueprint.git",
-    "ng-scaffold-coffee": "git+https://github.com/ngCli/ng-scaffold-coffee.git",
+    "ng-scaffold-coffee": "git+https://github.com/luiskhernandez/ng-scaffold-coffee.git",
     "ng-scaffold-js": "git+https://github.com/ngCli/ng-scaffold-js.git",
     "nomnom": "^1.8.1",
     "read-package-tree": "^2.0.0",
